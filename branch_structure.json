@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/working-jahangir",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/working-jahangir": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/working-jahangir",
+    "origin"
+  ]
+}
